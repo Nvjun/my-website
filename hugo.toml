@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://my-website-ashen-nine-65.vercel.app/'
+languageCode = 'zh-cn'
+title = '尹劻的博客'
+theme = 'papermod'
+
